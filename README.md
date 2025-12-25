@@ -4,7 +4,7 @@ Esta é uma aplicação exemplo de consulta e persistência de contas e saldos.
 
 ---
 
-## 🗄️ Bancos de Dados
+## Bancos de Dados
 
 | Banco                | Finalidade                             | Tipo |
 |----------------------|----------------------------------------|------|
