@@ -9,7 +9,7 @@ Esta é uma aplicação exemplo de consulta e persistência de contas e saldos.
 | Banco                | Finalidade                             | Tipo |
 |----------------------|----------------------------------------|------|
 | **Account Database** | Criação e Consulta de contas           | H2 (em memória) |
-| **Balance Database** | Criaçào e Consulta de saldos de contas | H2 (em memória) |
+| **Balance Database** | Criação e Consulta de saldos de contas | H2 (em memória) |
 
 >Obs: Como os bancos são **in-memory**, os dados são perdidos ao reiniciar a aplicação.
 
